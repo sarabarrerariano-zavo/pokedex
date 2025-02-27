@@ -1,4 +1,5 @@
-# Pokedex Opdracht
+# Pokedex Opdracht V1
+
 
 Je gaat een webpagina maken die informatie over een Pokémon ophaalt en weergeeft met behulp van de **PokéAPI**. Maar **voordat** je de API gebruikt, moet je eerst de HTML-structuur en een basis CSS-layout maken.
 
